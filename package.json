@@ -1,10 +1,10 @@
 {
   "name": "pom-cli",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Pomodoro server for synchronized work across teams",
-  "main": "index.js",
+  "main": "lib/index.js",
   "bin": {
-    "pom": "./node_modules/babel/bin/babel-node index.js"
+    "pom": "./node_modules/babel/bin/babel-node lib/index.js"
   },
   "scripts": {
     "test": "test"
