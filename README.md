@@ -4,6 +4,7 @@ unwittingly disturb your flow -- because they'll be in it too.
 
 # Install
 ```sh
+$ npm install -g babel
 $ npm install -g pom-cli
 ```
 
