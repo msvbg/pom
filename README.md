@@ -5,8 +5,7 @@
  \         /
   '-.___.-'
 
-A communal pomodoro timer, so that your coworkers will never again
-unwittingly disturb your flow -- because they'll be in it too.
+A communal pomodoro timer, so that your coworkers will never again unwittingly disturb your flow -- because they'll be in it too.
 ```
 
 # What?
